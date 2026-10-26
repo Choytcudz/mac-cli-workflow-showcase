@@ -1,0 +1,6 @@
+brew "fzf"
+brew "zoxide"
+brew "bat"
+brew "fd"
+brew "ripgrep"
+brew "jq"
